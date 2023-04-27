@@ -1,14 +1,14 @@
 # favorite_places
 
-## An application that lets you add locations as an entry on your local device.
+## An application that lets you add locations as an entry on your local device
 
-Made using the following packages:
+Made using Flutter 3.7.11 and the following packages found at [pub.dev](https://pub.dev) =>
 
 - flutter_riverpod
 - google_fonts
 - google_maps_flutter
-- image_picker
 - http
+- image_picker
 - location
 - path
 - path_provider
