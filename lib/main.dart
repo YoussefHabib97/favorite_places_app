@@ -30,11 +30,9 @@ final theme = ThemeData().copyWith(
   ),
 );
 
-void main() {
-  runApp(
-    const ProviderScope(child: ApplicationRoot()),
-  );
-}
+void main() => runApp(
+      const ProviderScope(child: ApplicationRoot()),
+    );
 
 class ApplicationRoot extends StatelessWidget {
   const ApplicationRoot({Key? key}) : super(key: key);
