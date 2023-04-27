@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-// Package imports
-
 // Constants import
 import 'package:favorite_places/constants.dart';
 

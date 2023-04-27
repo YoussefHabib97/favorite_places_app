@@ -1,8 +1,10 @@
-import 'package:favorite_places/screens/place_details_screen.dart';
 import 'package:flutter/material.dart';
 
 // Model imports
 import 'package:favorite_places/models/place_model.dart';
+
+// Screen imports
+import 'package:favorite_places/screens/place_details_screen.dart';
 
 class PlacesList extends StatelessWidget {
   final List<Place> places;
