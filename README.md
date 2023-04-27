@@ -1,6 +1,19 @@
 # favorite_places
 
-A new Flutter project.
+## An application that lets you add locations as an entry on your local device.
+
+Made using the following packages:
+
+- flutter_riverpod
+- google_fonts
+- google_maps_flutter
+- image_picker
+- http
+- location
+- path
+- path_provider
+- sqflite
+- uuid
 
 ## Getting Started
 
